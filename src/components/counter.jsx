@@ -1,9 +1,9 @@
 import React from 'react'
 
-const counter = () => {
+const Counter = () => {
   return (
-    <div>counter</div>
+    <div>Counter</div>
   )
 }
 
-export default counter
+export default Counter
